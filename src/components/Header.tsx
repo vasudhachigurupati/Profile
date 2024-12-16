@@ -20,10 +20,7 @@ export default function Header() {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="flex flex-wrap gap-4 text-gray-300"
         >
-          <a href="tel:+918897445549" className="flex items-center gap-2 hover:text-purple-400 transition-colors">
-            <Phone size={18} />
-            +91 8897445549
-          </a>
+          
           <a href="mailto:vasudha.chigurupatii@gmail.com" className="flex items-center gap-2 hover:text-purple-400 transition-colors">
             <Mail size={18} />
             vasudha.chigurupatii@gmail.com
