@@ -256,7 +256,43 @@ export default function CaseStudies() {
           ]
         }
       ]
+    },
+    {
+      title: "Maaza: Revolutionizing Beverage Packaging with Tetra Pak",
+      sections: [
+        {
+          title: "Foundation",
+          content: "Maaza, a popular fruit drink in India, initially faced challenges with traditional glass bottle packaging, which was expensive, prone to breakage, and difficult to transport. The brand needed a more efficient way to preserve and distribute its products, especially in remote areas with inconsistent cold chains."
+        },
+        {
+          title: "The Tetra Pak Transformation",
+          content: "In the 1990s, Maaza adopted Tetra Pak packaging, which was a game-changer for the brand. The new packaging offered multiple benefits such as extended shelf life, cost-efficiency, convenience, and environmental advantages."
+        },
+        {
+          title: "Strategic Growth",
+          content: [
+            "Wider Reach: Tetra Pak’s long shelf life and reduced storage requirements allowed Maaza to expand into smaller cities and rural markets.",
+            "Sales Growth: The convenience and affordability of the Tetra Pak cartons contributed to a significant increase in sales.",
+            "Brand Positioning: Maaza positioned itself as a premium brand with its modern, eco-friendly packaging, appealing to urban and on-the-go consumers."
+          ]
+        },
+        {
+          title: "Key Contributors",
+          content: [
+            "Coca-Cola’s Role: In 1993, Coca-Cola acquired Maaza and leveraged its vast distribution network to push the product into new markets.",
+            "Tetra Pak’s Innovation: Tetra Pak’s advanced packaging technology enabled Maaza to preserve the drink without refrigeration and reduced manufacturing and transportation costs."
+          ]
+        },
+        {
+          title: "Challenges and Solutions",
+          content: [
+            "Consumer Resistance: Some consumers were hesitant to switch from glass bottles to cartons. Maaza countered this through educational campaigns highlighting the quality, freshness, and convenience of Tetra Pak.",
+            "Sustainability Concerns: While Tetra Pak was more eco-friendly than glass, there were concerns about plastic waste. Maaza and Tetra Pak worked on improving recycling programs and awareness campaigns."
+          ]
+        }
+      ]
     }
+    
   ];
 
   return (
